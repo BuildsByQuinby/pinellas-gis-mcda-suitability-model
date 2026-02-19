@@ -117,7 +117,7 @@ Supporting documentation:
 
 Full project poster:
 
-[View Poster PDF](poster/Residential_Suitability_Model_Pinellas_WEQuinby.pdf)
+[View Poster PDF](poster/Final_Project_Poster_WEQuinby.pdf)
 
 ---
 
